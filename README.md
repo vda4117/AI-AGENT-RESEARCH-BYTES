@@ -1,2 +1,2 @@
-# AI-AGENT-BANKING-BYTES
-AI agent for reserch on given banking topics and send research details to provided email id.
+# AI-AGENT-RESEARCH-BYTES
+AI agent for research on given research topics and send research details to provided email id.
