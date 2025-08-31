@@ -25,7 +25,7 @@ We used OpenAI Agents SDK to research on given topic and send email with the det
 	-- Go to https://app.sendgrid.com/settings/sender_auth and click on verify single sender and varify the email id that you use to send email.
 
 
-## And now for deployment
+## Deployment
 
 This code is in `banking_bytes.py`
 
@@ -40,10 +40,9 @@ Note: If README.md available before your deployment in base directory then delet
 
 #### More about these secrets:
 
-If you're confused by what's going on with these secrets: it just wants you to enter the key name and value for each of your secrets -- so you would enter:  
-`GOOGLE_API_KEY`  
-Followed by:  
-`your_api_key_value`  
+If you're confused by what's going on with these secrets: it just wants you to enter the key name and value for each of your secrets. Enter the below two keys and there values:  
+- GOOGLE_API_KEY
+- SENDGRID_API_KEY   
 
 And if you don't want to set secrets this way, or something goes wrong with it, it's no problem - you can change your secrets later:  
 1. Log in to HuggingFace website  
